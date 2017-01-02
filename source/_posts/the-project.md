@@ -2,7 +2,12 @@
 title: About the project
 date: 2016-12-27
 ---
-Hackerspaces are beautiful places full of passionate people and values hard to find anywhere else. The mix of genuine curiosity, hands-on approach, bravery to open black boxes and use things in ways they weren't designed to - they're alien to Universities, unseen in most software houses or NGOs. It's not only about technology, either - the activists from Hackerspaces are protecting the universal right to privacy, ensuring governments' transparency, helping local communities understand the new, digitized world.
+
+According to Wikipedia, a [hackerspace](https://en.wikipedia.org/wiki/Hackerspace) is "a community-operated, often Not For Profit workspace where people with common interests, often in computers, machining, technology, science, digital art or electronic art, can meet, socialize and collaborate".
+
+Such spaces encourage a mix of genuine curiosity, hands-on approach, bravery to open black boxes and use things in ways they weren't designed to. Values are alien to Universities, unseen in most software houses or NGOs. 
+
+It's not only about technology, either. The activists from Hackerspaces are fighting for a lot of causes. They protect the universal right to privacy and ensure governments' transparency.  They help local communities understand the new, digitized world. Knowing how to use modern tools they are able to achieve much more than regular journalists or social workers.
 
 <img
     src="mitch-altman.jpg" 
@@ -10,11 +15,11 @@ Hackerspaces are beautiful places full of passionate people and values hard to f
     style="max-width: 80%; margin-top: 2em"
 >
 
-With all of the Hackerspaces' richness, they're surprisingly absent from the popular culture. When someone says "hacker", most people think about a lone-wolf black hats, or after the new "Mr Robot" series - about hacktivists bent on destroying the world's order. No one visualizes communities _building_ things together, learning and educating, taking vital part in political discourse in Europe and around the world.
+With all the Hackerspaces' richness, they're surprisingly absent from the popular culture. When someone says "hacker", most people think about either a lone-wolf black hat, or a hacktivist bent on destroying the world's order. No one visualizes communities _building_ things together, learning and educating. It's almost impossible to imagine them taking part in a political discourse or working with the society at large.
 
-I think that hacker values - the hacker ethos - are what we need in the culture. With all the grim dystopias shown as the only way for the humanity to go - the [CCC philosophers](https://media.ccc.de/v/32c3-7501-ten_years_after_we_lost_the_war) are calling not to give up and not to give in. Working together, creating and sharing knowledge - those are realistic ideals people can strive for. Maybe it's a time for a whole new [genre](http://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/) build around hackers?
+I think that hacker values - the hacker ethos - are what we need in our culture. With all the grim dystopias shown as the only way for the humanity to go - the [CCC philosophers](https://media.ccc.de/v/32c3-7501-ten_years_after_we_lost_the_war) are calling not to give up and not to give in. Working together, creating and sharing knowledge - those are realistic ideals people can strive for. Maybe it's a time for a whole new [sci-fi genre](http://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/) build around hackers?
 
-There have been some notions of the "real" hackers in the culture already. Cory Doctorow mentioned them in several of his novels - "Makers", "Homeland" and "Little Brother", describing several different aspects of the movement, but I feel he didn't paint the whole picture. A Hackerspace is a bustling community of different people: hardware tweakers, activists and educators, infosec guys on their Mate-fueled CTFs, artists trying to create something no one has imagined before and anarchists working to bring more power to the people.
+There have been some notions of the "real" hackers in the culture already. Cory Doctorow mentioned them in several of his novels: "Makers", "Homeland" and "Little Brother", describing several different aspects of the movement. I feel he didn't paint the whole picture. A Hackerspace is a bustling community of different people: hardware tweakers, activists and educators, infosec guys on their Mate-fueled CTFs, artists trying to create something no one has imagined before and anarchists working to bring more power to the people.
 
 <img
     src="suzanne-ccc.jpg" 
@@ -22,11 +27,13 @@ There have been some notions of the "real" hackers in the culture already. Cory 
     style="max-height: 600px; margin-top: 2em"
 >
 
-This project aims to offer exactly that: a graphic novel featuring a space where different people meet, each with their own approach to hacking and ideas about the movement. Some of them will naturally work well together, others will clash painfully, and each conflict will be different.
+This project aims to offer exactly that: a graphic novel featuring a space where different people meet, each with their own approach to hacking and ideas about the movement. Some of them will work well together, others will clash, and each conflict will be different.
 
-In the spirit of open source - and to allow the widest audience possible to learn what a hackerspace is - I'd like to license the (web)comic under Creative Commons CC-BY-SA, providing all source files for whoever would like to translate or improve it. The comic is being written in English and Polish with some notes for translators already built-it.
+Glider Ink is a non-profit project. Its goal is to allow the widest audience possible to learn what hackerspaces are - and get inspired. 
 
-All the illustrations you will see on this blog are licensed under CC-BY-SA as well.
+In the spirit of open source I'd like to license the (web)comic under Creative Commons CC-BY-SA. Providing all source files will allow everybody to translate or improve it. It's being written in English and Polish with some notes for translators already built-it.
+
+All the illustrations for the comic you will see on this blog are licensed under CC-BY-SA as well.
 
 <img
     src="felix.jpg" 
@@ -34,11 +41,11 @@ All the illustrations you will see on this blog are licensed under CC-BY-SA as w
     style="max-height: 600px"
 >
 
-I expect the first "story arc" to take about 150 pages, featuring five main characters. Right now I'm working on the story, which should be both accessible to the people from outside of the culture - and entertaining to those within. I've decided to go with a fictional Hackerspace and characters for more creative freedom, but represent all technology and movements as realistically as possible.
+I expect the first "story arc" to take about 150 pages, featuring five main characters. The story should be both accessible to the people from outside of the culture - and entertaining to those within. I've decided to go with a fictional Hackerspace and characters for more creative freedom. Given that,  all technology and social movements should be represented as realistically as possible.
 
-The story I've written so far takes place in a city resembling Warsaw, where "GliderSpace" was founded instead of real HS-WAW. While most of characters are Polish to illustrate a community younger than one born out of [CCC](https://en.wikipedia.org/wiki/Chaos_Computer_Club) culture, I do hope to introduce guests and cameos from around the world - especially from Spaces as interesting as Palestinian, Iraqi or Kenyan.
+The story I've written so far takes place in a city resembling [Warsaw](https://en.wikipedia.org/wiki/Warsaw), Poland where "GliderSpace" was founded instead of the real HS-WAW. Most of characters are Polish to illustrate a community younger than one born out of [CCC](https://en.wikipedia.org/wiki/Chaos_Computer_Club) culture. I do hope to introduce guests and cameos from around the world - especially from Spaces as interesting as Palestinian, Iraqi or Kenyan.
 
-I've requested commissions from several illustrators already, but I'm still looking for an artist interested in co-creating the whole project. All the funds for the first several months of work are already there - and we should open Patreon / PayPal / BTC wallet for donations as soon as we start delivering something. Sadly, I can't give you any hard estimates yet.
+I'm looking for an artist interested in co-creating the whole project. I've requested commissions from several illustrators already, but haven't been able to find a long-term partner. All the funds for the first several months of work are already there - and we should open Patreon / PayPal / BTC wallet for donations as soon as we start delivering something. Sadly, I can't give you any hard estimates yet.
 
 <img
     src="adam.jpg" 
@@ -46,6 +53,6 @@ I've requested commissions from several illustrators already, but I'm still look
     style="max-height: 600px; margin-top: 2em"
 >
 
-You can read more about the gallery of [characters](/characters) that you should be able to meet on the course of the story.
+You can read more about the gallery of [characters](/characters) that you'll meet on the course of the story.
 
 If you are reading it from the 33rd Chaos Communication Congress, there should be stickers somewhere. Go look for them and join #glider-ink on Freenode to discuss the project!

@@ -43,13 +43,13 @@ All the illustrations for the comic you will see on this blog are licensed under
 
 I expect the first "story arc" to take about 150 pages, featuring five main characters. The story should be both accessible to the people from outside of the culture - and entertaining to those within. I've decided to go with a fictional Hackerspace and characters for more creative freedom. Given that,  all technology and social movements should be represented as realistically as possible.
 
-The story I've written so far takes place in a city resembling [Warsaw](https://en.wikipedia.org/wiki/Warsaw), Poland where "GliderSpace" was founded instead of the real HS-WAW. Most of characters are Polish to illustrate a community younger than one born out of [CCC](https://en.wikipedia.org/wiki/Chaos_Computer_Club) culture. I do hope to introduce guests and cameos from around the world - especially from Spaces as interesting as Palestinian, Iraqi or Kenyan.
+The story I've written so far takes place in a non-specific European city, where Glider is the only running hackerspace. Due to a lot of misconceptions about the hackers being only white, I'd like to keep the cast a little more diverse - with guests or cameos from Palestinian, Iraqi, Kenyan or Filipino spaces. Glider's relation to existing hacker organizations such as [CCC](https://en.wikipedia.org/wiki/Chaos_Computer_Club) is not yet established.
 
 I'm looking for an artist interested in co-creating the whole project. I've requested commissions from several illustrators already, but haven't been able to find a long-term partner. All the funds for the first several months of work are already there - and we should open Patreon / PayPal / BTC wallet for donations as soon as we start delivering something. Sadly, I can't give you any hard estimates yet.
 
 <img
     src="adam.jpg" 
-    alt="Adam, space's activist and ecducator, CC-BY-SA Kimiooon 2016"
+    alt="Adam, space's activist and educator, CC-BY-SA Kimiooon 2016"
     style="max-height: 600px; margin-top: 2em"
 >
 
